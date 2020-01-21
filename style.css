@@ -1,0 +1,237 @@
+body {
+    background-color: black;
+    /*background-image: radial-gradient(white, red, black, white);*/
+    /*background-image: url(krajina.png);*/
+    background-image: radial-gradient(red, blue, red);
+}
+
+footer {
+    color: red;
+    text-shadow: -1px -1px white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    text-shadow: -1px -1px red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#stranka {
+    padding-left: 100px;
+    padding-top: 300px;
+}
+
+
+/* Styl, který používají všechny noty */
+
+.Nota {
+    position: absolute;
+    cursor: pointer;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    /*top: 142px;*/
+    top: 220px;
+}
+
+
+/* Kaskádové styly pro bílé klapky */
+
+.C_Nota {
+    color: black;
+    padding-top: 258px;
+    padding-left: 18px;
+    z-index: 50;
+    background-color: white;
+    left: 366px;
+}
+
+.D_Nota {
+    color: black;
+    padding-top: 258px;
+    padding-left: 18px;
+    margin-left: 56px;
+    z-index: 51;
+    background-color: white;
+    left: 369px;
+}
+
+.E_Nota {
+    color: black;
+    padding-top: 258px;
+    padding-left: 18px;
+    margin-left: 112px;
+    z-index: 53;
+    background-color: white;
+    left: 372px;
+}
+
+.F_Nota {
+    color: black;
+    padding-top: 258px;
+    padding-left: 18px;
+    margin-left: 168px;
+    z-index: 55;
+    background-color: white;
+    left: 373px;
+}
+
+.G_Nota {
+    color: black;
+    padding-top: 258px;
+    padding-left: 18px;
+    margin-left: 224px;
+    z-index: 56;
+    background-color: white;
+    left: 375px;
+}
+
+.A_Nota {
+    color: black;
+    padding-top: 258px;
+    padding-left: 18px;
+    margin-left: 280px;
+    z-index: 58;
+    background-color: white;
+    left: 379px;
+}
+
+.B_Nota {
+    color: black;
+    padding-top: 258px;
+    padding-left: 18px;
+    margin-left: 336px;
+    z-index: 60;
+    background-color: white;
+    left: 382px;
+}
+
+.C1_Nota {
+    color: black;
+    padding-top: 258px;
+    padding-left: 10px;
+    margin-left: 392px;
+    z-index: 62;
+    background-color: white;
+    left: 384px;
+}
+
+.D1_Nota {
+    color: black;
+    padding-top: 258px;
+    padding-left: 10px;
+    margin-left: 448px;
+    z-index: 63;
+    background-color: white;
+    left: 388px;
+}
+
+.E1_Nota {
+    color: black;
+    padding-top: 258px;
+    padding-left: 10px;
+    margin-left: 504px;
+    z-index: 65;
+    background-color: white;
+    left: 393px;
+}
+
+.F1_Nota {
+    color: black;
+    padding-top: 258px;
+    padding-left: 10px;
+    margin-left: 560px;
+    z-index: 67;
+    background-color: white;
+    left: 396px;
+}
+
+
+/* Kaskádové styly pro černé klapky */
+
+.Cs_Nota {
+    color: white;
+    padding-top: 180px;
+    padding-left: 10px;
+    margin-left: 26px;
+    z-index: 52;
+    background-color: black;
+    border-color: black;
+    border-color: red;
+    left: 368px;
+}
+
+.Ds_Nota {
+    color: white;
+    padding-top: 180px;
+    padding-left: 10px;
+    margin-left: 90px;
+    z-index: 54;
+    background-color: black;
+    border-color: black;
+    border-color: red;
+    left: 364px;
+}
+
+.Fs_Nota {
+    color: white;
+    padding-top: 180px;
+    padding-left: 10px;
+    margin-left: 190px;
+    z-index: 57;
+    background-color: black;
+    border-color: black;
+    border-color: red;
+    left: 380px;
+}
+
+.Gs_Nota {
+    color: white;
+    padding-top: 180px;
+    padding-left: 10px;
+    margin-left: 254px;
+    z-index: 59;
+    background-color: black;
+    border-color: black;
+    border-color: red;
+    left: 376px;
+}
+
+.Bb_Nota {
+    color: white;
+    padding-top: 180px;
+    padding-left: 10px;
+    margin-left: 320px;
+    z-index: 61;
+    background-color: black;
+    border-color: black;
+    border-color: red;
+    left: 372px;
+}
+
+.Cs1_Nota {
+    color: white;
+    padding-top: 180px;
+    padding-left: 1px;
+    margin-left: 416px;
+    z-index: 64;
+    background-color: black;
+    border-color: black;
+    border-color: red;
+    left: 390px;
+}
+
+.Ds1_Nota {
+    color: white;
+    padding-top: 180px;
+    padding-left: 1px;
+    margin-left: 482px;
+    z-index: 66;
+    background-color: black;
+    border-color: black;
+    border-color: red;
+    left: 386px;
+}
